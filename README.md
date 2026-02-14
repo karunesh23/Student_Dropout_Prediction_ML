@@ -56,11 +56,9 @@ streamlit run app.py
 
 
 
-### **👨‍💻 Contact**
-
+👨‍💻 Contact
 Have questions, suggestions, or want to collaborate? Feel free to reach out:
-
-- 📧 Email: karuneshbansal84@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/karunesh-bansal-780828380
+📧 Email: karuneshbansal84@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/karunesh-bansal-780828380
 
 I look forward to connecting with you!
